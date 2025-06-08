@@ -1,0 +1,12 @@
+# ASO Binding Energies and MFE (kcal/mol)
+ASO1  -34.30
+ASO2  -34.60
+ASO3  -33.90
+ASO4  -31.90
+ASO5  -31.80
+ASO6  -32.50
+ASO7  -31.90
+ASO8  -31.60
+ASO9  -33.80
+ASO10 -34.10
+ASO11 -31.70
